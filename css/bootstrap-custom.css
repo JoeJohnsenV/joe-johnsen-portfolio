@@ -30,3 +30,8 @@ a:hover {
 #projects .card-text {
   color: #ffffff !important;
 }
+.text-muted,
+small,
+.small {
+  color: #d0d0d0 !important;
+}
