@@ -25,3 +25,8 @@ a:hover {
 .card-text {
   color: #ffffff;
 }
+#projects .card,
+#projects .card-title,
+#projects .card-text {
+  color: #ffffff !important;
+}
